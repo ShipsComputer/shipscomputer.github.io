@@ -1,0 +1,10 @@
+# Site settings
+title: Ships Computer
+tag_text: Ships Computer
+description: A Star Trek style Ships Computer designed for a sailing vessel.
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
